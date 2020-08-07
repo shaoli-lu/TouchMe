@@ -1,0 +1,14 @@
+.btns {
+	
+	float: center;
+	padding: 5px;
+	margin: 5px;
+}
+
+.time {
+	font-weight: 500;
+	font-size: 40px;
+	padding: 5px;
+	margin: 5px;
+}
+
